@@ -1,4 +1,4 @@
-# Week 14 — Transfer Learning
+# Week 15 — Transfer Learning & Modern AI
 
 ## Contents
 - Why transfer learning: pre-trained representations

@@ -1,4 +1,4 @@
-# Week 10 — Hyperparameter Optimization
+# Week 9 — Hyperparameter Optimization
 
 ## Contents
 - Search strategies: grid search, random search, Bayesian optimization

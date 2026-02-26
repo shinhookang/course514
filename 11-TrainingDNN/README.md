@@ -1,4 +1,4 @@
-# Week 4 — Training Deep Networks
+# Week 11 — Training Deep Networks
 
 ## Contents
 - Optimizers: SGD with momentum, RMSProp, Adam

@@ -1,4 +1,4 @@
-# Week 9 — Tree-based Models
+# Week 7 — Tree-based Models
 
 ## Contents
 - Decision tree: splitting criteria (Gini, entropy), pruning

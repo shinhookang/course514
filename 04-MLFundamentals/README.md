@@ -1,4 +1,4 @@
-# Week 5 — Machine Learning Fundamentals
+# Week 4 — Machine Learning Fundamentals
 
 ## Contents
 - Types of learning: supervised, unsupervised, reinforcement learning

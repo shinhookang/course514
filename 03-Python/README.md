@@ -1,4 +1,4 @@
-# Week 2 — Python for AI
+# Week 3 — Python for AI
 
 ## Contents
 - NumPy: arrays, broadcasting, vectorized operations

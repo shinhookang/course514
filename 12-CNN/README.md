@@ -1,4 +1,4 @@
-# Week 11 — Convolutional Neural Networks
+# Week 12 — Convolutional Neural Networks
 
 ## Contents
 - Convolution operation: filters, stride, padding

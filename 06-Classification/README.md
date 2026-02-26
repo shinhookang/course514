@@ -1,4 +1,4 @@
-# Week 7 — Classification
+# Week 6 — Classification
 
 ## Contents
 - Logistic regression and decision boundary

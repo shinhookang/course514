@@ -1,4 +1,4 @@
-# Week 6 — Linear Models
+# Week 5 — Linear Models
 
 ## Contents
 - Linear regression: formulation, closed-form solution

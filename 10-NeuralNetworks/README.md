@@ -1,4 +1,4 @@
-# Week 3 — Neural Networks
+# Week 10 — Neural Networks
 
 ## Contents
 - Perceptron and multi-layer perceptron (MLP)

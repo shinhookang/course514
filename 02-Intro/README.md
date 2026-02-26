@@ -1,4 +1,4 @@
-# Week 1 — Introduction to AI
+# Week 2 — Introduction to AI
 
 ## Contents
 - History of AI: symbolic AI, expert systems, the deep learning revolution

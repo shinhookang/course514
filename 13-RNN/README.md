@@ -1,4 +1,4 @@
-# Week 12 — Recurrent Neural Networks
+# Week 13 — Recurrent Neural Networks
 
 ## Contents
 - Vanilla RNN and the vanishing gradient problem
