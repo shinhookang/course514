@@ -9,5 +9,10 @@
 ## Lab
 **PyTorch Dataset & DataLoader** — Implement a custom `Dataset` class and build a data pipeline with `DataLoader`.
 
+Install 
+```
+pip install torch torchvision scikit-learn
+```
+
 ---
 [← Back to Course](../README.md)

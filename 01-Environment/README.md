@@ -197,7 +197,7 @@ After activation, your prompt changes to show `(.venv)`, and `python` / `pip` no
 ## Install packages
 
 ```bash
-pip install numpy pandas matplotlib
+pip install numpy pandas matplotlib jupyterlab seaborn
 ```
 
 ## Save and restore dependencies
@@ -224,7 +224,7 @@ deactivate
 
 ---
 
-# 3. SSH Access to a Remote Server
+<!-- # 3. SSH Access to a Remote Server
 
 ## Enable SSH on the server
 
@@ -267,4 +267,4 @@ Restart SSH after saving:
 
 ```bash
 sudo systemctl restart ssh
-```
+``` -->

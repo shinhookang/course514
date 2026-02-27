@@ -1,6 +1,7 @@
 # Week 3 — Python for AI
 
 ## Contents
+- Python basics
 - NumPy: arrays, broadcasting, vectorized operations
 - Pandas: DataFrames, data loading, cleaning, and exploration
 - Matplotlib / Seaborn: plotting and data visualization
